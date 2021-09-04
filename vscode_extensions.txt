@@ -1,0 +1,6 @@
+Henna Color Theme
+Jupyter
+Material Icon Theme
+Remote - WSL
+Vim
+gitlens
