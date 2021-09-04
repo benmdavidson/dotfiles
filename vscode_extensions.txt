@@ -3,4 +3,5 @@ Jupyter
 Material Icon Theme
 Remote - WSL
 Vim
-gitlens
+Gitlens
+FontSize Shortcuts
